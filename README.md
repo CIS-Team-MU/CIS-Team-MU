@@ -7,10 +7,10 @@
     <a href="https://www.behance.net/CISTeamMU"><img src="https://img.shields.io/badge/Behance-%23053EFF?style=flat&logo=Behance&logoColor=white"/></a>
     <a href="http://www.youtube.com/c/CISTeamMU"><img src="https://img.shields.io/badge/Youtube-%23FF0000?style=flat&logo=Youtube&logoColor=white"/></a>  
   
-We are a *voluntary team* in faculty of computers and information science, Mansoura University, Founded in academic year 2015.
+We are a **voluntary team** in Faculty of Computers and Information Science, Mansoura University, Founded in academic year 2015.
 
-The team is a *nonprofit organization* that depends on volunteering work by students together to help our friends and give them more knowledge about technology, networks and programming.
+The team is a **nonprofit organization** that depends on volunteering work by students together to help our friends and give them more knowledge about technology, networks and programming.
 
-*Our Mission* aims to have more technical and actual impact on computer science students by providing technical training and supervision in several tracks, Along with sharing what's new with the technology and any useful online materials.
+**Our Mission** aims to have more technical and actual impact on computer science students by providing technical training and supervision in several tracks, Along with sharing what's new with the technology and any useful online materials.
 
-*Our vision* is to instill creativity within every person looking for it to live in a more active community of students and developers.
+**Our vision** is to instill creativity within every person looking for it to live in a more active community of students and developers.
